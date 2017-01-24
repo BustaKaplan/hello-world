@@ -1,6 +1,7 @@
 # Welcome
 
 ## Intro
+....I don't think I'm doing this right-Chelsea
 
 Welcome to CoderGirl's Front-End Web Developer learning plan!
 
